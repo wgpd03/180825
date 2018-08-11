@@ -1,0 +1,8 @@
+Angular Architecture:
+https://angular.io/guide/architecture
+
+Lifecycle Hooks:
+https://angular.io/guide/lifecycle-hooks
+
+
+
